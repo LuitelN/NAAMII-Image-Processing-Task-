@@ -1,5 +1,5 @@
 original - Medial: [404 221 118], Lateral: [385 324   0]
 expanded_2mm - Medial: [375 193 119], Lateral: [385 326   0]
 expanded_4mm - Medial: [375 191 119], Lateral: [385 328   0]
-random_mask1 - Medial: [375 193 119], Lateral: [387 326   0]
-random_mask2 - Medial: [375 193 119], Lateral: [385 326   0]
+random_mask1 - Medial: [377 193 119], Lateral: [386 326   0]
+random_mask2 - Medial: [375 193 119], Lateral: [386 326   0]
