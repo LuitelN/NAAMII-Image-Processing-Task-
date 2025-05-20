@@ -1,0 +1,6 @@
+Mask Name,"Medial Voxel (z,y,x)","Medial Coord (x,y,z mm)","Lateral Voxel (z,y,x)","Lateral Coord (x,y,z mm)"
+Original,"(np.int64(330), np.int64(256), np.int64(117))","(np.float64(58.5), np.float64(128.0), np.float64(165.0))","(np.int64(339), np.int64(256), np.int64(128))","(np.float64(64.0), np.float64(128.0), np.float64(169.5))"
+Expanded 2mm,"(np.int64(330), np.int64(257), np.int64(117))","(np.float64(58.5), np.float64(128.5), np.float64(165.0))","(np.int64(335), np.int64(257), np.int64(125))","(np.float64(62.5), np.float64(128.5), np.float64(167.5))"
+Expanded 4mm,"(np.int64(332), np.int64(259), np.int64(113))","(np.float64(56.5), np.float64(129.5), np.float64(166.0))","(np.int64(330), np.int64(259), np.int64(117))","(np.float64(58.5), np.float64(129.5), np.float64(165.0))"
+Randomized 40%,"(np.int64(330), np.int64(257), np.int64(117))","(np.float64(58.5), np.float64(128.5), np.float64(165.0))","(np.int64(337), np.int64(257), np.int64(125))","(np.float64(62.5), np.float64(128.5), np.float64(168.5))"
+Randomized 80%,"(np.int64(330), np.int64(257), np.int64(117))","(np.float64(58.5), np.float64(128.5), np.float64(165.0))","(np.int64(335), np.int64(257), np.int64(125))","(np.float64(62.5), np.float64(128.5), np.float64(167.5))"
