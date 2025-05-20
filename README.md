@@ -1,10 +1,10 @@
 # Knee CT Images Segmentation 
 
-Simple overview of use/purpose.
+This repository is created for the submission of NAAMII-Image Processing Task for the purpose of RA Selection. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This image processing task consists of working on .nii.gz CT scan images in 3D after conversion to 2D and analysis through bone segmentation and masking concepts. 
 
 ## Getting Started
 
