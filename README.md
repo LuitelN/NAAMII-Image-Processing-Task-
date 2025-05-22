@@ -23,5 +23,5 @@ numpy, matplotlib, nibabel , scikit-image, scipy
 * Make changes as per requirement
 
 ### Author 
-Developed and executed by Niranjan Luitel. 
+Planned and executed by Niranjan Luitel. 
 
