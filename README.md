@@ -14,6 +14,8 @@ numpy, matplotlib, nibabel , scikit-image, scipy
 
 -pip install numpy matplotlib nibabel scikit-image scipy (For Windows)
 
+* Check the Analysis.ipynb file for final code and results. 
+
 
 ### Executing program
 
