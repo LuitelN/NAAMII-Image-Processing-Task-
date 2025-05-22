@@ -17,10 +17,10 @@ numpy, matplotlib, nibabel , scikit-image, scipy
 
 ### Executing program
 
-*Install required libraries 
-*Add the code to Jupyter Notebook 
-*Execute the program 
-*Make changes as per requirement
+* Install required libraries 
+* Add the code to Jupyter Notebook 
+* Execute the program 
+* Make changes as per requirement
 
 ### Author 
 Developed and executed by Niranjan Luitel. 
