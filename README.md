@@ -1,22 +1,23 @@
-# Knee CT Images Segmentation 
+# Knee CT Images Segmentation and Landmark Detection
 
-This repository is created for the submission of NAAMII-Image Processing Task for the purpose of RA Selection. 
+This repository contains Python code for segmenting femur and tibia bones from a coronal slice of a 3D CT image, generating masks and identifying landmarks in tibia. It exports results in NIfTI format and saves landmark coordinates data as a CSV. 
 
 ## Description
 
 This image processing task consists of working on .nii.gz CT scan images in 3D after conversion to 2D and analysis through bone segmentation and masking concepts. 
 
-## Getting Started
-
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+-numpy
+-matplotlib
+-nibabel 
+-scikit-image
+-scipy
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+-pip install numpy matplotlib nibabel scikit-image scipy (For Windows)
+
 
 ### Executing program
 
