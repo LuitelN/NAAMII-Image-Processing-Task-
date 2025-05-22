@@ -8,11 +8,7 @@ This image processing task consists of working on .nii.gz CT scan images in 3D a
 
 ### Dependencies
 
--numpy
--matplotlib
--nibabel 
--scikit-image
--scipy
+numpy, matplotlib, nibabel , scikit-image, scipy
 
 ### Installing
 
